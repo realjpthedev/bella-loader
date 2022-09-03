@@ -1,0 +1,20 @@
+{
+  "name": "05-intro-animation",
+  "source": "src/index.html",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "npm:@gsap/business@^3.11.0",
+    "imagesloaded": "^5.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
